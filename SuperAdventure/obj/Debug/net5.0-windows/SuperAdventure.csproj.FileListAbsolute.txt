@@ -19,3 +19,24 @@ C:\Users\kbsun\source\repos\rpg game les go\SuperAdventure\obj\Debug\net5.0-wind
 C:\Users\kbsun\source\repos\rpg game les go\SuperAdventure\obj\Debug\net5.0-windows\ref\SuperAdventure.dll
 C:\Users\kbsun\source\repos\rpg game les go\SuperAdventure\obj\Debug\net5.0-windows\SuperAdventure.pdb
 C:\Users\kbsun\source\repos\rpg game les go\SuperAdventure\obj\Debug\net5.0-windows\SuperAdventure.genruntimeconfig.cache
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\SuperAdventure\obj\Debug\net5.0-windows\SuperAdventure.csprojAssemblyReference.cache
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\SuperAdventure\obj\Debug\net5.0-windows\SuperAdventure.Form1.resources
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\SuperAdventure\obj\Debug\net5.0-windows\SuperAdventure.csproj.GenerateResource.cache
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\SuperAdventure\obj\Debug\net5.0-windows\SuperAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\SuperAdventure\obj\Debug\net5.0-windows\SuperAdventure.AssemblyInfoInputs.cache
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\SuperAdventure\obj\Debug\net5.0-windows\SuperAdventure.AssemblyInfo.cs
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\SuperAdventure\obj\Debug\net5.0-windows\SuperAdventure.csproj.CoreCompileInputs.cache
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\SuperAdventure\obj\Debug\net5.0-windows\SuperAdventure.dll
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\SuperAdventure\obj\Debug\net5.0-windows\ref\SuperAdventure.dll
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\SuperAdventure\obj\Debug\net5.0-windows\SuperAdventure.pdb
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\SuperAdventure\bin\Debug\net5.0-windows\SuperAdventure.exe
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\SuperAdventure\bin\Debug\net5.0-windows\SuperAdventure.deps.json
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\SuperAdventure\bin\Debug\net5.0-windows\SuperAdventure.runtimeconfig.json
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\SuperAdventure\bin\Debug\net5.0-windows\SuperAdventure.runtimeconfig.dev.json
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\SuperAdventure\bin\Debug\net5.0-windows\SuperAdventure.dll
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\SuperAdventure\bin\Debug\net5.0-windows\ref\SuperAdventure.dll
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\SuperAdventure\bin\Debug\net5.0-windows\SuperAdventure.pdb
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\SuperAdventure\bin\Debug\net5.0-windows\Engine.dll
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\SuperAdventure\bin\Debug\net5.0-windows\Engine.pdb
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\SuperAdventure\obj\Debug\net5.0-windows\SuperAdventure.csproj.CopyComplete
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\SuperAdventure\obj\Debug\net5.0-windows\SuperAdventure.genruntimeconfig.cache

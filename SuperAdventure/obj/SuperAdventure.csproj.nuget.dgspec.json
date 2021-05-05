@@ -1,27 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kbsun\\source\\repos\\rpg game les go\\SuperAdventure\\SuperAdventure.csproj": {}
+    "C:\\Users\\kbsun\\Desktop\\code\\rpg-game-les-go\\SuperAdventure\\SuperAdventure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kbsun\\source\\repos\\rpg game les go\\Engine\\Engine.csproj": {
+    "C:\\Users\\kbsun\\Desktop\\code\\rpg-game-les-go\\Engine\\Engine.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\kbsun\\source\\repos\\rpg game les go\\Engine\\Engine.csproj",
+        "projectUniqueName": "C:\\Users\\kbsun\\Desktop\\code\\rpg-game-les-go\\Engine\\Engine.csproj",
         "projectName": "Engine",
-        "projectPath": "C:\\Users\\kbsun\\source\\repos\\rpg game les go\\Engine\\Engine.csproj"
+        "projectPath": "C:\\Users\\kbsun\\Desktop\\code\\rpg-game-les-go\\Engine\\Engine.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\Users\\kbsun\\source\\repos\\rpg game les go\\SuperAdventure\\SuperAdventure.csproj": {
+    "C:\\Users\\kbsun\\Desktop\\code\\rpg-game-les-go\\SuperAdventure\\SuperAdventure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kbsun\\source\\repos\\rpg game les go\\SuperAdventure\\SuperAdventure.csproj",
+        "projectUniqueName": "C:\\Users\\kbsun\\Desktop\\code\\rpg-game-les-go\\SuperAdventure\\SuperAdventure.csproj",
         "projectName": "SuperAdventure",
-        "projectPath": "C:\\Users\\kbsun\\source\\repos\\rpg game les go\\SuperAdventure\\SuperAdventure.csproj",
+        "projectPath": "C:\\Users\\kbsun\\Desktop\\code\\rpg-game-les-go\\SuperAdventure\\SuperAdventure.csproj",
         "packagesPath": "C:\\Users\\kbsun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kbsun\\source\\repos\\rpg game les go\\SuperAdventure\\obj\\",
+        "outputPath": "C:\\Users\\kbsun\\Desktop\\code\\rpg-game-les-go\\SuperAdventure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kbsun\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,8 +38,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\kbsun\\source\\repos\\rpg game les go\\Engine\\Engine.csproj": {
-                "projectPath": "C:\\Users\\kbsun\\source\\repos\\rpg game les go\\Engine\\Engine.csproj"
+              "C:\\Users\\kbsun\\Desktop\\code\\rpg-game-les-go\\Engine\\Engine.csproj": {
+                "projectPath": "C:\\Users\\kbsun\\Desktop\\code\\rpg-game-les-go\\Engine\\Engine.csproj"
               }
             }
           }
@@ -71,7 +71,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

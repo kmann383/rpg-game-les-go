@@ -4,3 +4,9 @@ C:\Users\kbsun\source\repos\rpg game les go\Engine\obj\Debug\Engine.csprojAssemb
 C:\Users\kbsun\source\repos\rpg game les go\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
 C:\Users\kbsun\source\repos\rpg game les go\Engine\obj\Debug\Engine.dll
 C:\Users\kbsun\source\repos\rpg game les go\Engine\obj\Debug\Engine.pdb
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\Engine\obj\Debug\Engine.dll
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\Engine\obj\Debug\Engine.pdb
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\Engine\bin\Debug\Engine.dll
+C:\Users\kbsun\Desktop\code\rpg-game-les-go\Engine\bin\Debug\Engine.pdb
