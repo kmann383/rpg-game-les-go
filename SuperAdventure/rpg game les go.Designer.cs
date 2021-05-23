@@ -45,9 +45,11 @@ namespace SuperAdventure
             this.btnUseWeapon = new System.Windows.Forms.Button();
             this.btnUsePotion = new System.Windows.Forms.Button();
             this.btnNorth = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.btnWest = new System.Windows.Forms.Button();
             this.btnEast = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
+            this.btnSouth = new System.Windows.Forms.Button();
+            this.rtbLocation = new System.Windows.Forms.RichTextBox();
+            this.rtbMessages = new System.Windows.Forms.RichTextBox();
             this.SuspendLayout();
             // 
             // label1
@@ -122,7 +124,7 @@ namespace SuperAdventure
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(622, 531);
+            this.label4.Location = new System.Drawing.Point(619, 531);
             this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(76, 15);
@@ -153,7 +155,7 @@ namespace SuperAdventure
             this.btnUseWeapon.Location = new System.Drawing.Point(620, 559);
             this.btnUseWeapon.Margin = new System.Windows.Forms.Padding(2);
             this.btnUseWeapon.Name = "btnUseWeapon";
-            this.btnUseWeapon.Size = new System.Drawing.Size(78, 20);
+            this.btnUseWeapon.Size = new System.Drawing.Size(75, 23);
             this.btnUseWeapon.TabIndex = 11;
             this.btnUseWeapon.Text = "Use";
             this.btnUseWeapon.UseVisualStyleBackColor = true;
@@ -176,14 +178,14 @@ namespace SuperAdventure
             this.btnNorth.Text = "North";
             this.btnNorth.UseVisualStyleBackColor = true;
             // 
-            // button2
+            // btnWest
             // 
-            this.button2.Location = new System.Drawing.Point(359, 395);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 14;
-            this.button2.Text = "button2";
-            this.button2.UseVisualStyleBackColor = true;
+            this.btnWest.Location = new System.Drawing.Point(412, 457);
+            this.btnWest.Name = "btnWest";
+            this.btnWest.Size = new System.Drawing.Size(75, 23);
+            this.btnWest.TabIndex = 14;
+            this.btnWest.Text = "West";
+            this.btnWest.UseVisualStyleBackColor = true;
             // 
             // btnEast
             // 
@@ -194,24 +196,43 @@ namespace SuperAdventure
             this.btnEast.Text = "East";
             this.btnEast.UseVisualStyleBackColor = true;
             // 
-            // button4
+            // btnSouth
             // 
-            this.button4.Location = new System.Drawing.Point(493, 487);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(75, 23);
-            this.button4.TabIndex = 16;
-            this.button4.Text = "button4";
-            this.button4.UseVisualStyleBackColor = true;
-            this.button4.Click += new System.EventHandler(this.button4_Click);
+            this.btnSouth.Location = new System.Drawing.Point(493, 487);
+            this.btnSouth.Name = "btnSouth";
+            this.btnSouth.Size = new System.Drawing.Size(75, 23);
+            this.btnSouth.TabIndex = 16;
+            this.btnSouth.Text = "South";
+            this.btnSouth.UseVisualStyleBackColor = true;
+            // 
+            // rtbLocation
+            // 
+            this.rtbLocation.Location = new System.Drawing.Point(347, 19);
+            this.rtbLocation.Name = "rtbLocation";
+            this.rtbLocation.ReadOnly = true;
+            this.rtbLocation.Size = new System.Drawing.Size(360, 105);
+            this.rtbLocation.TabIndex = 17;
+            this.rtbLocation.Text = "";
+            // 
+            // rtbMessages
+            // 
+            this.rtbMessages.Location = new System.Drawing.Point(347, 130);
+            this.rtbMessages.Name = "rtbMessages";
+            this.rtbMessages.ReadOnly = true;
+            this.rtbMessages.Size = new System.Drawing.Size(360, 286);
+            this.rtbMessages.TabIndex = 18;
+            this.rtbMessages.Text = "";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(719, 651);
-            this.Controls.Add(this.button4);
+            this.Controls.Add(this.rtbMessages);
+            this.Controls.Add(this.rtbLocation);
+            this.Controls.Add(this.btnSouth);
             this.Controls.Add(this.btnEast);
-            this.Controls.Add(this.button2);
+            this.Controls.Add(this.btnWest);
             this.Controls.Add(this.btnNorth);
             this.Controls.Add(this.btnUsePotion);
             this.Controls.Add(this.btnUseWeapon);
@@ -254,9 +275,12 @@ namespace SuperAdventure
         private System.Windows.Forms.Button btnUseWeapon;
         private System.Windows.Forms.Button btnUsePotion;
         private System.Windows.Forms.Button btnNorth;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button btnWest;
         private System.Windows.Forms.Button btnEast;
-        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button btnSouth;
+        private EventHandler button4_Click;
+        private System.Windows.Forms.RichTextBox rtbLocation;
+        private System.Windows.Forms.RichTextBox rtbMessages;
     }
 }
 
